@@ -1,5 +1,5 @@
 # primer-design
-comparsion results for primer design
+since our proposed codes are proved by mathematical approaches, only comparsion results in subsection 4.3 are shown.
 
 1. the size results for different run lengths of code C_{R8}_{(2)} can be checked in directory: primer_length _12/size results/size_diffent_run.mat
 
